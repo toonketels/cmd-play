@@ -1,6 +1,17 @@
 {
-    "hash": "53dfb31bf2fb54a7b38f02a80164ce93",
+    "hash": "7538781f9a1723560d37bb467a94b2d7",
     "packages": [
+        {
+            "package": "symfony/class-loader",
+            "version": "dev-master",
+            "alias-pretty-version": "2.1.x-dev",
+            "alias-version": "2.1.9999999.9999999-dev"
+        },
+        {
+            "package": "symfony/class-loader",
+            "version": "dev-master",
+            "source-reference": "dd3f2ad5204df88b8938430e39a25c9a7f53f079"
+        },
         {
             "package": "symfony/console",
             "version": "dev-master",

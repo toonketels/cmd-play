@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Symfony\\Component\\Console' => $vendorDir . '/symfony/console/',
+    'Symfony\\Component\\ClassLoader' => $vendorDir . '/symfony/class-loader/',
 );
