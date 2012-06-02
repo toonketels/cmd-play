@@ -6,6 +6,7 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Symfony\\Component\\Console' => $vendorDir . '/symfony/console/',
-    'Symfony\\Component\\ClassLoader' => $vendorDir . '/symfony/class-loader/',
+    'Symfony\\Component\\Console' => $baseDir . '/vendor/symfony/console/',
+    'Symfony\\Component\\ClassLoader' => $baseDir . '/vendor/symfony/class-loader/',
+    'Play' => $baseDir . '/src/',
 );
